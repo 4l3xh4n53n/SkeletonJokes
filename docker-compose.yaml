@@ -1,0 +1,6 @@
+name: skeleton-jokes
+services:
+  skeleton-jokes:
+    ports:
+    - 8080:8080
+    image: skeleton-jokes
