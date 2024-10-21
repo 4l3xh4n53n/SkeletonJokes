@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: skeleton-jokes
+spec:
+  selector:
+    matchLabels:
+      app: skeleton-jokes
+  template:
+    metadata:
+      labels:
+        app: skeleton-jokes
+    spec:
+      containers:
+      - name: skeleton-jokes
+        image: 192.168.1.231:5000/skeleton-jokes
+        resources:
+          limits:
+            memory: "128Mi"
+            cpu: "500m"
+        ports:
+        - containerPort: 8080

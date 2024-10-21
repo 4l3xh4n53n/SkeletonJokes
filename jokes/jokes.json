@@ -1,0 +1,369 @@
+{
+  "jokes": [
+    {
+      "id":0,
+      "joke": "What was the skeleton doing at the hockey game?",
+      "answer": "Driving the zam-boney."
+    },
+    {
+      "id":1,
+      "joke": "Why are skeletons so calm?",
+      "answer": "Because nothing gets under their skin."
+    },
+    {
+      "id":2,
+      "joke": "Why didn’t the skeleton go to the dance?",
+      "answer": "Because he had no body to dance with."
+    },
+    {
+      "id":3,
+      "joke": "What do you call a skeleton with no friends?",
+      "answer": "Bonely."
+    },
+    {
+      "id":4,
+      "joke": "What’s a skeleton’s favorite plant?",
+      "answer": "A bone-zai."
+    },
+    {
+      "id":5,
+      "joke": "Why can’t skeletons play church music?",
+      "answer": "Because they have no organs."
+    },
+    {
+      "id":6,
+      "joke": "What do you call a skeleton who goes out in the snow?",
+      "answer": "A numb-skull."
+    },
+    {
+      "id":7,
+      "joke": "Why didn’t the skeleton laugh at the joke?",
+      "answer": "Because he didn’t have a funny bone."
+    },
+    {
+      "id":8,
+      "joke": "What does a skeleton order at a restaurant?",
+      "answer": "Spare ribs."
+    },
+    {
+      "id":9,
+      "joke": "How do French skeletons say hello?",
+      "answer": "“Bone-jour!”"
+    },
+    {
+      "id":10,
+      "joke": "What do you call a skeleton who rings the doorbell?",
+      "answer": "A dead ringer."
+    },
+    {
+      "id":11,
+      "joke": "Who won the skeleton beauty contest?",
+      "answer": "No body."
+    },
+    {
+      "id":12,
+      "joke": "What did one skeleton say to the other skeleton?",
+      "answer": "“You’re dead to me.”"
+    },
+    {
+      "id":13,
+      "joke": "Why didn’t the skeleton play football?",
+      "answer": "His heart wasn’t in it."
+    },
+    {
+      "id":14,
+      "joke": "Why did the skeleton go to jail?",
+      "answer": "Because he was bad to the bone."
+    },
+    {
+      "id":15,
+      "joke": "Why did the skeleton start a fight?",
+      "answer": "Because he had a bone to pick."
+    },
+    {
+      "id":16,
+      "joke": "What did the skeleton say to his girlfriend?",
+      "answer": "“Will you marrow me?”"
+    },
+    {
+      "id":17,
+      "joke": "When does a skeleton laugh?",
+      "answer": "When someone tickles his funny bone."
+    },
+    {
+      "id":18,
+      "joke": "What do you call a skeleton who goes to school but doesn’t do any work?",
+      "answer": "Lazy bones."
+    },
+    {
+      "id":19,
+      "joke": "Why do skeletons hate the cold?",
+      "answer": "It sends chills up their spine."
+    },
+    {
+      "id":20,
+      "joke": "What do you call a skeleton snake?",
+      "answer": "A rattler."
+    },
+    {
+      "id":21,
+      "joke": "How did the skeleton know it was going to rain?",
+      "answer": "He could feel it in his bones."
+    },
+    {
+      "id":22,
+      "joke": "Did you hear about the skeleton who dropped out of medical school?",
+      "answer": "He didn’t have the stomach for it."
+    },
+    {
+      "id":23,
+      "joke": "What happened to the skeleton who sat by the fire too long?",
+      "answer": "He became bone dry."
+    },
+    {
+      "id":24,
+      "joke": "What kind of TV does a skeleton watch?",
+      "answer": "A skelevision."
+    },
+    {
+      "id":25,
+      "joke": "What happened to the pirate ship that sank in a sea full of sharks?",
+      "answer": "It came back with a skeleton crew."
+    },
+    {
+      "id":26,
+      "joke": "Why are skeletons so good at telling jokes?",
+      "answer": "Because they have a funny bone."
+    },
+    {
+      "id":27,
+      "joke": "What kind of dishes do skeletons serve tea on?",
+      "answer": "Bone china."
+    },
+    {
+      "id":28,
+      "joke": "What is a skeleton’s favorite mode of transport?",
+      "answer": "A scare-plane."
+    },
+    {
+      "id":29,
+      "joke": "What does a skeleton fly in if his scare-plane isn’t available?",
+      "answer": "A skele-copter."
+    },
+    {
+      "id":30,
+      "joke": "What do skeletons say when they set off to sea?",
+      "answer": "“Bone voyage!”"
+    },
+    {
+      "id":31,
+      "joke": "What type of candy sent the skeleton to the hospital?",
+      "answer": "Jawbreakers."
+    },
+    {
+      "id":32,
+      "joke": "What do skeletons hate the most about the wind?",
+      "answer": "Nothing. It goes right through them."
+    },
+    {
+      "id":33,
+      "joke": "Why didn’t the skeleton rob the bank?",
+      "answer": "Because he didn’t have the guts."
+    },
+    {
+      "id":34,
+      "joke": "What is a skeleton’s favorite instrument?",
+      "answer": "A trom-bone."
+    },
+    {
+      "id":35,
+      "joke": "What’s a skeleton’s second favorite instrument?",
+      "answer": "A sax-a-bone."
+    },
+    {
+      "id":36,
+      "joke": "What is a skeleton’s favorite type of film to watch?",
+      "answer": "A spine-tingler."
+    },
+    {
+      "id":37,
+      "joke": "Why did the skeleton climb up the tree?",
+      "answer": "Because a dog was after his bones!"
+    },
+    {
+      "id":38,
+      "joke": "Who is the most famous French skeleton?",
+      "answer": "Napolean Bone-aparte."
+    },
+    {
+      "id":39,
+      "joke": "What did the skeleton say to the vampire?",
+      "answer": "“You suck.”"
+    },
+    {
+      "id":40,
+      "joke": "Who is the most famous skeleton detective?",
+      "answer": "Sherlock Bones."
+    },
+    {
+      "id":41,
+      "joke": "What did the doctor say to the skeleton who had a temperature of 103 degrees?",
+      "answer": "“Looks like you are running a femur.”"
+    },
+    {
+      "id":42,
+      "joke": "What’s a skeleton’s favorite rock band?",
+      "answer": "The Grateful Dead."
+    },
+    {
+      "id":43,
+      "joke": "What kind of fish do skeletons like to eat?",
+      "answer": "Carpals."
+    },
+    {
+      "id":44,
+      "joke": "What’s a skeleton’s next favorite rock band?",
+      "answer": "Bone Jovi."
+    },
+    {
+      "id":45,
+      "joke": "Why did the skeleton go to the dance?",
+      "answer": "To see the boogie man."
+    },
+    {
+      "id":46,
+      "joke": "What is half the diameter of a skeletal circle?",
+      "answer": "The radius."
+    },
+    {
+      "id":47,
+      "joke": "Why did the skeleton student stay late at school?",
+      "answer": "He was boning up for his exam."
+    },
+    {
+      "id":48,
+      "joke": "What do bony people use to get into their homes?",
+      "answer": "A skeleton key."
+    },
+    {
+      "id":49,
+      "joke": "What do you call a skeleton who hangs out in coffee shops and listens to indie music?",
+      "answer": "A hip-ster."
+    },
+    {
+      "id":50,
+      "joke": "What is a skeleton’s favorite thing to do with their cell phone?",
+      "answer": "Take skelfies."
+    },
+    {
+      "id":51,
+      "joke": "Why couldn’t the police arrest the skeleton?",
+      "answer": "They couldn’t pin anything on him."
+    },
+    {
+      "id":52,
+      "joke": "How did the skeleton know the other skeleton was lying?",
+      "answer": "He could see right through him."
+    },
+    {
+      "id":53,
+      "joke": "What Spanish food do skeletons enjoy most?",
+      "answer": "Patella."
+    },
+    {
+      "id":54,
+      "joke": "What did the skeleton say when he went riding on his motorcycle?",
+      "answer": "“I’m bone to be wild!”"
+    },
+    {
+      "id":55,
+      "joke": "Why did the skeleton go to the hospital?",
+      "answer": "To have his ghoul bladder removed."
+    },
+    {
+      "id":56,
+      "joke": "What do you call a lie told by a skeleton?",
+      "answer": "A fibula."
+    },
+    {
+      "id":57,
+      "joke": "What did the skeleton say to his wife?",
+      "answer": "“I love every bone in your body.”"
+    },
+    {
+      "id":58,
+      "joke": "What job on a construction site is best suited to a skeleton?",
+      "answer": "The living room."
+    },
+    {
+      "id":59,
+      "joke": "What’s a skeleton’s least favorite room in the house?",
+      "answer": "The bony express."
+    },
+    {
+      "id":60,
+      "joke": "How did skeletons send mail back in the olden days?",
+      "answer": "Skele-tons."
+    },
+    {
+      "id":61,
+      "joke": "How much does an elephant skeleton weigh?",
+      "answer": "Cranium operator."
+    },
+    {
+      "id":62,
+      "joke": "What type of art do skeletons like?",
+      "answer": "Skulltures!"
+    },
+    {
+      "id":63,
+      "joke": "What do skeletons complain about?",
+      "answer": "Aching bones."
+    },
+    {
+      "id":64,
+      "joke": "Why do skeletons drink so much milk?",
+      "answer": "It’s good for the bones!"
+    },
+    {
+      "id":65,
+      "joke": "Why did the skeleton go to acting classes?",
+      "answer": "He wanted tibia star."
+    },
+    {
+      "id":66,
+      "joke": "Where do bad jokes about skeletons belong?",
+      "answer": "In the skelebin."
+    },
+    {
+      "id":67,
+      "joke": "Why can’t skeletons fly over Area 51?",
+      "answer": "It was a no-fly-bone."
+    },
+    {
+      "id":68,
+      "joke": "What kind of pasta do skeletons enjoy eating the most?",
+      "answer": "Elbow macaroni."
+    },
+    {
+      "id":69,
+      "joke": "Who is a skeleton’s favorite female movie star?",
+      "answer": "Ulna Thurman."
+    },
+    {
+      "id":70,
+      "joke": "What does a skeleton use to cut through objects?",
+      "answer": "A shoulder blade."
+    },
+    {
+      "id":71,
+      "joke": "What kind of jokes do skeletons tell?",
+      "answer": "Humerus ones."
+    },
+    {
+      "id":72,
+      "joke": "What kind of birds do skeletons like?",
+      "answer": "Sea skulls."
+    }
+  ]
+}
