@@ -4,6 +4,25 @@
 
 This is a website that I made so I can get skeleton jokes. That's it.
 
+## Running on baremetal
+First make a virtual environment
+```bash
+python3 -m venv skeletonjokes
+```
+To activate the virtual environment run the correct command for your operating system.
+```bash
+source venv/bin/activate # Mac and Linux
+venv/Scripts/activate.bat # Windows CMD
+venv/Scripts/Activate.ps1 # Windows PowerShell
+```
+Secondly install the requirements from `requirements.txt`
+```bash
+pip install -r requirements.txt
+```
+Finally you can run the flask application with this command
+```bash
+flask --app main.py run
+```
 ## Running with Docker
 First build the image
 ```bash
